@@ -11,7 +11,7 @@
 + Работа с локальными и удаленными репрозиториями в Git и Github
 + Работа над проектами в VS code 
 
-* *... Список навыков пополняется по мере обучения!* * 
+   _... Список навыков пополняется по мере обучения!_ 
 
 ### Моя статистика на Leetcode:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nikolay87-ru?theme=light&font=Average%20Sans)
